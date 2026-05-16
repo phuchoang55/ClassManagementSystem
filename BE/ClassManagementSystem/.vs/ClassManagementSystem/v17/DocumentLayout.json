@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24466A63-17F5-45EB-B6A5-6E39E58A2AD2}|ClassManagementAPI\\ClassManagementAPI.csproj|d:\\dotnet_project\\classmanagementsystem\\be\\classmanagementsystem\\classmanagementapi\\migrations\\20260516113053_addclassestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24466A63-17F5-45EB-B6A5-6E39E58A2AD2}|ClassManagementAPI\\ClassManagementAPI.csproj|solutionrelative:classmanagementapi\\migrations\\20260516113053_addclassestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24466A63-17F5-45EB-B6A5-6E39E58A2AD2}|ClassManagementAPI\\ClassManagementAPI.csproj|d:\\dotnet_project\\classmanagementsystem\\be\\classmanagementsystem\\classmanagementapi\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24466A63-17F5-45EB-B6A5-6E39E58A2AD2}|ClassManagementAPI\\ClassManagementAPI.csproj|solutionrelative:classmanagementapi\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24466A63-17F5-45EB-B6A5-6E39E58A2AD2}|ClassManagementAPI\\ClassManagementAPI.csproj|d:\\dotnet_project\\classmanagementsystem\\be\\classmanagementsystem\\classmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24466A63-17F5-45EB-B6A5-6E39E58A2AD2}|ClassManagementAPI\\ClassManagementAPI.csproj|solutionrelative:classmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24466A63-17F5-45EB-B6A5-6E39E58A2AD2}|ClassManagementAPI\\ClassManagementAPI.csproj|d:\\dotnet_project\\classmanagementsystem\\be\\classmanagementsystem\\classmanagementapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24466A63-17F5-45EB-B6A5-6E39E58A2AD2}|ClassManagementAPI\\ClassManagementAPI.csproj|solutionrelative:classmanagementapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24466A63-17F5-45EB-B6A5-6E39E58A2AD2}|ClassManagementAPI\\ClassManagementAPI.csproj|d:\\dotnet_project\\classmanagementsystem\\be\\classmanagementsystem\\classmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24466A63-17F5-45EB-B6A5-6E39E58A2AD2}|ClassManagementAPI\\ClassManagementAPI.csproj|solutionrelative:classmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24466A63-17F5-45EB-B6A5-6E39E58A2AD2}|ClassManagementAPI\\ClassManagementAPI.csproj|d:\\dotnet_project\\classmanagementsystem\\be\\classmanagementsystem\\classmanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24466A63-17F5-45EB-B6A5-6E39E58A2AD2}|ClassManagementAPI\\ClassManagementAPI.csproj|solutionrelative:classmanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24466A63-17F5-45EB-B6A5-6E39E58A2AD2}|ClassManagementAPI\\ClassManagementAPI.csproj|d:\\dotnet_project\\classmanagementsystem\\be\\classmanagementsystem\\classmanagementapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24466A63-17F5-45EB-B6A5-6E39E58A2AD2}|ClassManagementAPI\\ClassManagementAPI.csproj|solutionrelative:classmanagementapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24466A63-17F5-45EB-B6A5-6E39E58A2AD2}|ClassManagementAPI\\ClassManagementAPI.csproj|d:\\dotnet_project\\classmanagementsystem\\be\\classmanagementsystem\\classmanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24466A63-17F5-45EB-B6A5-6E39E58A2AD2}|ClassManagementAPI\\ClassManagementAPI.csproj|solutionrelative:classmanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24466A63-17F5-45EB-B6A5-6E39E58A2AD2}|ClassManagementAPI\\ClassManagementAPI.csproj|d:\\dotnet_project\\classmanagementsystem\\be\\classmanagementsystem\\classmanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24466A63-17F5-45EB-B6A5-6E39E58A2AD2}|ClassManagementAPI\\ClassManagementAPI.csproj|solutionrelative:classmanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260516113053_AddClassesTable.cs",
+              "DocumentMoniker": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\ClassManagementAPI\\Migrations\\20260516113053_AddClassesTable.cs",
+              "RelativeDocumentMoniker": "ClassManagementAPI\\Migrations\\20260516113053_AddClassesTable.cs",
+              "ToolTip": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\ClassManagementAPI\\Migrations\\20260516113053_AddClassesTable.cs",
+              "RelativeToolTip": "ClassManagementAPI\\Migrations\\20260516113053_AddClassesTable.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T11:31:40.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\ClassManagementAPI\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "ClassManagementAPI\\Models\\Class.cs",
+              "ToolTip": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\ClassManagementAPI\\Models\\Class.cs",
+              "RelativeToolTip": "ClassManagementAPI\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T11:31:20.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\ClassManagementAPI\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ClassManagementAPI\\DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\ClassManagementAPI\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "ClassManagementAPI\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T09:33:10.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\ClassManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ClassManagementAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\ClassManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ClassManagementAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAJ4AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T15:58:16.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\ClassManagementAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ClassManagementAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\ClassManagementAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ClassManagementAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:22:37.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\ClassManagementAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ClassManagementAPI\\Models\\User.cs",
+              "ToolTip": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\ClassManagementAPI\\Models\\User.cs",
+              "RelativeToolTip": "ClassManagementAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T07:55:04.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\ClassManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ClassManagementAPI\\Program.cs",
+              "ToolTip": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\ClassManagementAPI\\Program.cs",
+              "RelativeToolTip": "ClassManagementAPI\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAEEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T07:54:10.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\ClassManagementAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ClassManagementAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\ClassManagementAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ClassManagementAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T07:53:30.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\ClassManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ClassManagementAPI\\appsettings.json",
+              "ToolTip": "D:\\Dotnet_Project\\ClassManagementSystem\\BE\\ClassManagementSystem\\ClassManagementAPI\\appsettings.json",
+              "RelativeToolTip": "ClassManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-14T07:52:46.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

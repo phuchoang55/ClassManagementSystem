@@ -1,0 +1,6 @@
+@ClassManagementAPI_HostAddress = http://localhost:5122
+
+GET {{ClassManagementAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
